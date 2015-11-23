@@ -1,0 +1,8 @@
+E:\VisualStudioProjects\StaticMemberAndNamespaces\_03_Paths\bin\Debug\_03_Paths.exe.config
+E:\VisualStudioProjects\StaticMemberAndNamespaces\_03_Paths\bin\Debug\_03_Paths.exe
+E:\VisualStudioProjects\StaticMemberAndNamespaces\_03_Paths\bin\Debug\_03_Paths.pdb
+E:\VisualStudioProjects\StaticMemberAndNamespaces\_03_Paths\bin\Debug\StaticMemberAndNamespaces.exe
+E:\VisualStudioProjects\StaticMemberAndNamespaces\_03_Paths\bin\Debug\StaticMemberAndNamespaces.pdb
+E:\VisualStudioProjects\StaticMemberAndNamespaces\_03_Paths\obj\Debug\_03_Paths.csprojResolveAssemblyReference.cache
+E:\VisualStudioProjects\StaticMemberAndNamespaces\_03_Paths\obj\Debug\_03_Paths.exe
+E:\VisualStudioProjects\StaticMemberAndNamespaces\_03_Paths\obj\Debug\_03_Paths.pdb

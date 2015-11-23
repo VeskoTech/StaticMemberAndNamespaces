@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01_Point3D", "StaticMemberAndNamespaces\_01_Point3D.csproj", "{9B71FD7D-A6DF-47B1-B253-D6B8A8DFBAEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03_Paths", "_03_Paths\_03_Paths.csproj", "{BBDCC417-5DCF-4255-AC05-909622BE503D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B71FD7D-A6DF-47B1-B253-D6B8A8DFBAEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B71FD7D-A6DF-47B1-B253-D6B8A8DFBAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B71FD7D-A6DF-47B1-B253-D6B8A8DFBAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B71FD7D-A6DF-47B1-B253-D6B8A8DFBAEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBDCC417-5DCF-4255-AC05-909622BE503D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDCC417-5DCF-4255-AC05-909622BE503D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDCC417-5DCF-4255-AC05-909622BE503D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDCC417-5DCF-4255-AC05-909622BE503D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

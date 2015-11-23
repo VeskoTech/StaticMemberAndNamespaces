@@ -1,0 +1,1 @@
+E:\VisualStudioProjects\StaticMemberAndNamespaces\StaticMemberAndNamespaces\bin\Debug\StaticMemberAndNamespaces.exe.config
